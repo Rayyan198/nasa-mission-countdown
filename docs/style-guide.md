@@ -3,3 +3,4 @@
    - Text: light blue-white (#e8ecff)
    - Headings: bright blue (#4da3ff)
    - Font: Arial, centered layout
+..
